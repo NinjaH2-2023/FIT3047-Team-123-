@@ -3,6 +3,7 @@
 print('Welcome to Team 123 Calculator!')
 print('Hello from Dakshesh!')
 print('Hello from Zihao!')
+print('--------------------------------')
 
 num1 = float(input('Enter first number: '))
 operator = input('Enter operator (+, -, *, /): ')
