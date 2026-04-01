@@ -1,3 +1,8 @@
+# Basic Calculator - FIT3047 Team 123
+
+print('Hello from Dakshesh!')
+print('Hello from Zihao!')
+
 def compute(num1, operator, num2):
     if operator == '+':
         return num1 + num2
